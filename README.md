@@ -5,3 +5,4 @@ Furthermore, an enhanced scope-C2f (ES-C2f) module is designed, utilizing channe
 After a series of experiments on the VisDrone, RSOD, and AI-TOD datasets, the model has not only demonstrated superior performance in aerial image detection tasks compared to existing advanced algorithms but also achieved a lightweight model structure. The experimental results demonstrate the potential of MPE-YOLO in enhancing the accuracy and operational efficiency of aerial target detection. 
 The code will be gradually released after the manuscript is accepted.
 The network connection is too poor, and I often can't access GitHub. I'll continue once I find a reliable VPN.
+Uploading large files keeps failing. I'll upload everything once the issue is resolved.
